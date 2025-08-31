@@ -62,12 +62,12 @@ I'm a passionate **AI Engineer** with expertise in machine learning, deep learni
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahakintobi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahakintobi&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahakintobi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -103,7 +103,7 @@ I'm a passionate **AI Engineer** with expertise in machine learning, deep learni
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahakintobi&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
