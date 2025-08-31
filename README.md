@@ -62,8 +62,8 @@ I'm a passionate **AI Engineer** with expertise in machine learning, deep learni
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahakintobi&layout=compact&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahakintobi&theme=tokyonight" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahakintobi&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahakintobi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
