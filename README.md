@@ -144,6 +144,6 @@ I'm always excited to collaborate on innovative AI projects and discuss the late
 
 **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2E9EF7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=abdullahakintobi&color=2E9EF7&style=for-the-badge)
 
 </div>
