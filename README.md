@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Data Analyst with 2+ years of experience transforming complex datasets into actionable insights that drive business decisions and process improvements. Skilled in data analysis, visualisation, predictive modelling, and A/B testing, with a strong track record of building automated dashboards and collaborating with cross-functional teams to deliver data-driven solutions.
+**Data Analyst** with 2+ years of experience transforming complex datasets into actionable insights that **drive business decisions and process improvements.** Skilled **in data analysis, visualisation, predictive modelling, and A/B testing,** with a strong track record of building **automated dashboards** and collaborating with cross-functional teams to deliver **data-driven solutions.**
 
 
 ## 🛠️ Tech Stack
