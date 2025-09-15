@@ -1,15 +1,15 @@
 # Hi there, I'm Abdullah 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Statistical+Analysis+%26+Visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fraud+Detection+Expert;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahakintobi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahakintobi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahakintobi@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AkintobiAI)
 
 </div>
 
@@ -17,13 +17,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst** specializing in transforming raw data into meaningful insights that drive business decisions. I excel at uncovering patterns, creating compelling visualizations, and building data-driven solutions that impact bottom-line results.
+I'm a passionate **Data Analyst** with 2+ years of experience turning complex datasets into actionable insights to drive business decisions and improve processes. Currently working as a Data Analyst at **Adyen** (Amsterdam), specializing in fraud detection and risk mitigation strategies for payment systems.
 
-- 📊 Currently working on **Customer Analytics** and **Business Intelligence Dashboards**
-- 🌱 Learning **Advanced Statistical Methods**, **Machine Learning**, and **Cloud Analytics**
-- 👯 Looking to collaborate on **Data Visualization Projects** and **Analytics Case Studies**
-- 💬 Ask me about **SQL**, **Data Visualization**, **Statistical Analysis**, and **Business Intelligence**
-- ⚡ Fun fact: I can find insights in any dataset - give me spreadsheets and I'll give you stories!
+- 🔍 Currently working on **Fraud Detection Analytics** and **Risk Mitigation Models** at Adyen
+- 🌱 Pursuing **Bachelor of Science in Data Science** at IU International University of Applied Sciences
+- 👯 Looking to collaborate on **Data Analytics Projects** and **Business Intelligence Solutions**
+- 💬 Ask me about **SQL**, **Python**, **Power BI**, **Fraud Analytics**, and **Statistical Modeling**
+- ⚡ Fun fact: I've mentored 100+ students and helped reduce fraudulent transactions by 25% using predictive models!
 
 ---
 
@@ -33,33 +33,25 @@ I'm a passionate **Data Analyst** specializing in transforming raw data into mea
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### **Data Analysis & Statistics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-### **Data Visualization**
+### **Data Visualization & BI**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ### **Databases & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **Tools & Platforms**
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -74,35 +66,43 @@ I'm a passionate **Data Analyst** specializing in transforming raw data into mea
 
 ## 🏆 Featured Projects
 
-### 📊 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)
-**Interactive Power BI dashboard analyzing sales trends and KPIs**
-- Real-time data connections with automated refresh
-- 15+ key metrics with drill-down capabilities
-- Increased sales team efficiency by 30%
+### 🏪 [SQL Retail Sales Analysis](https://github.com/abdullahakintobi/SQL-Retail-Sales-Analysis)
+**Comprehensive PostgreSQL analysis of retail sales data**
+- Advanced SQL queries for business insights and customer behavior analysis
+- Data cleaning, exploratory analysis, and time-based trend identification
+- Key findings: Peak sales hours, top customers, and category performance metrics
+- *Technologies: PostgreSQL, Data Modeling, Business Intelligence*
 
-### 📈 [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)
-**RFM analysis and clustering for targeted marketing strategies**
-- K-means clustering with statistical validation
-- Actionable customer personas and recommendations
-- Generated $2M+ in additional revenue through targeted campaigns
+### 🔮 [Customer Churn Analysis and Prediction](https://github.com/abdullahakintobi/Customer-Churn-Analysis-and-Prediction)
+**End-to-end churn prediction model with interactive dashboard**
+- Predictive modeling to identify at-risk customers
+- Statistical analysis and feature engineering for churn indicators
+- Interactive dashboard for business stakeholder insights
+- *Technologies: Python, Machine Learning, Data Visualization*
 
-### 🔍 [Web Analytics Deep Dive](https://github.com/yourusername/web-analytics)
-**Comprehensive analysis of website performance and user behavior**
-- Google Analytics API integration with Python
-- Conversion funnel optimization insights
-- A/B testing statistical significance analysis
+### 📊 [GroVeer Power BI Dashboard Report](https://github.com/abdullahakintobi/GroVeer-Power-BI-Dashboard-Report)
+**Business intelligence dashboard for fictional company GroVeer**
+- Interactive Power BI dashboard with automated reporting capabilities
+- KPI tracking and performance monitoring across business units
+- Data storytelling through compelling visualizations
+- *Technologies: Power BI, DAX, Data Modeling, Business Intelligence*
 
-### 💰 [Financial Forecasting Model](https://github.com/yourusername/financial-forecasting)
-**Time series analysis for budget planning and revenue prediction**
-- ARIMA and seasonal decomposition models
-- Monte Carlo simulations for risk assessment
-- 95% accuracy in quarterly revenue predictions
+---
 
-### 🏪 [Retail Inventory Optimization](https://github.com/yourusername/inventory-optimization)
-**Data-driven approach to minimize stockouts and overstock**
-- Demand forecasting with multiple algorithms
-- ABC analysis and safety stock calculations
-- Reduced inventory costs by 20% while maintaining service levels
+## 💼 Professional Experience
+
+### **Data Analyst** | *Adyen* (Sep 2024 – Present)
+**Amsterdam, Netherlands | Contract**
+- Analyze large-scale payment data to detect fraud patterns and strengthen risk mitigation strategies
+- Design and implement A/B testing frameworks and statistical models for fraud prevention optimization
+- Build interactive dashboards and automated reports using SQL, Python, Power BI, and Excel
+- **Key Achievement**: Reduced fraudulent transactions by 25% and decreased false positives by 18%
+
+### **Data Analytics Tutor** | *Data Science Nigeria (DSN)* (Jun 2023 – Present)
+**Lagos, Nigeria | Volunteer**
+- Mentor 100+ students in SQL, Python, Excel, and Power BI through live sessions and bootcamps
+- Develop tailored learning materials and provide technical mentorship
+- **Key Achievement**: Boosted learner performance by 25% and improved retention by 40%
 
 ---
 
@@ -114,57 +114,41 @@ I'm a passionate **Data Analyst** specializing in transforming raw data into mea
 
 ---
 
-## 🎓 Certifications & Education
+## 🎓 Education & Certifications
 
-- 🏆 **Microsoft Certified: Data Analyst Associate (Power BI)**
-- 🏆 **Tableau Desktop Specialist**
-- 🏆 **Google Analytics Individual Qualification (IQ)**
-- 🏆 **AWS Certified Cloud Practitioner**
-- 🎓 **B.S. in Statistics** - University of Michigan
-- 📊 **Google Data Analytics Professional Certificate**
+**🎓 Education**
+- **Bachelor of Science in Data Science** | *IU International University of Applied Sciences* (Mar 2025 – Present)
+- **Bachelor of Science in Statistics** | *University of Ilorin, Nigeria* (Jun 2021 – Jul 2024)
 
----
-
-## 📊 Key Skills & Expertise
-
-**📈 Statistical Analysis**
-- Hypothesis testing, regression analysis, correlation studies
-- A/B testing design and statistical significance evaluation
-- Predictive modeling and forecasting techniques
-
-**📊 Business Intelligence**
-- KPI development and performance tracking
-- Dashboard design and data storytelling
-- Executive reporting and presentation skills
-
-**🔍 Data Mining & Exploration**
-- Exploratory data analysis (EDA) and pattern recognition
-- Data cleaning, transformation, and quality assessment
-- Feature engineering and variable selection
+**📊 Core Competencies**
+- **Statistical Analysis**: Regression, Hypothesis Testing, ANOVA, Time Series Analysis
+- **Business Intelligence**: Dashboard Development, KPI Design, Executive Reporting
+- **Data Engineering**: ETL Processes, Data Modeling, Database Design
+- **Fraud Analytics**: Pattern Recognition, Risk Assessment, Predictive Modeling
+- **Soft Skills**: Data Storytelling, Cross-functional Collaboration, Agile Methodology
 
 ---
 
-## 📝 Latest Blog Posts & Case Studies
+## 📊 Key Achievements
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Executive Dashboards That Actually Get Used](https://yourblog.com/executive-dashboards)
-- [The Art of Data Storytelling: From Numbers to Narratives](https://yourblog.com/data-storytelling)
-- [Customer Lifetime Value: Advanced Calculation Methods](https://yourblog.com/clv-analysis)
-- [SQL for Data Analysts: Advanced Techniques and Best Practices](https://yourblog.com/advanced-sql)
-<!-- BLOG-POST-LIST:END -->
+🎯 **25%** reduction in fraudulent transactions through predictive modeling at Adyen  
+📈 **18%** decrease in false positives using advanced risk typologies  
+👥 **100+** students mentored in data analytics bootcamps and sessions  
+⚡ **30%** improvement in fraud detection efficiency using Spark and Python  
+📊 **40%** improvement in student retention through engaging learning environments  
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm passionate about helping organizations make data-driven decisions and would love to discuss how analytics can drive your business forward. Whether you need help with dashboard development, statistical analysis, or just want to chat about the latest trends in data analytics!
+I'm passionate about leveraging data analytics to solve real-world business problems, especially in fraud detection and risk management. Whether you're looking for collaboration on analytics projects, consulting on data strategies, or just want to discuss the latest trends in data science!
 
 **Currently Open To:**
-- 📊 Data Analytics Consulting
-- 💼 Full-time Data Analyst Positions
-- 🤝 Freelance Dashboard Projects
-- 🎯 Business Intelligence Collaborations
-- 📚 Mentoring Aspiring Analysts
+- 📊 Data Analytics Consulting Projects
+- 💼 Full-time Data Analyst Opportunities
+- 🤝 Freelance Dashboard & Analytics Projects
+- 🔍 Fraud Detection & Risk Analytics Collaborations
+- 📚 Mentoring Aspiring Data Analysts
 
 ---
 
