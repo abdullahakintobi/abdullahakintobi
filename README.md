@@ -137,7 +137,7 @@ I'm passionate about leveraging data analytics to solve real-world business prob
 
 <div align="center">
   
-### 💡 "In God we trust. All others must bring data." - W. Edwards Deming
+### 💡 "The goal is to turn data into information, and information into insight." – Carly Fiorina
 
 **Thanks for visiting my profile! ⭐ Star some repositories if you find them useful for your analytics work!**
 
