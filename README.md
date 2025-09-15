@@ -6,8 +6,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahakintobi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahakintobi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahakintobi@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.com/users/abdullahakintobi)
 
 </div>
 
@@ -15,13 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyst** with 2+ years of experience turning complex datasets into actionable insights to drive business decisions and improve processes. Currently working as a Data Analyst at **Adyen** (Amsterdam), specializing in fraud detection and risk mitigation strategies for payment systems.
-
-- 🔍 Currently working on **Fraud Detection Analytics** and **Risk Mitigation Models** at Adyen
-- 🌱 Pursuing **Bachelor of Science in Data Science** at IU International University of Applied Sciences
-- 👯 Looking to collaborate on **Data Analytics Projects** and **Business Intelligence Solutions**
-- 💬 Ask me about **SQL**, **Python**, **Power BI**, **Fraud Analytics**, and **Statistical Modeling**
-- ⚡ Fun fact: I've mentored 100+ students and helped reduce fraudulent transactions by 25% using predictive models!
+Data Analyst with 2+ years of experience transforming complex datasets into actionable insights that drive business decisions and process improvements. Skilled in data analysis, visualisation, predictive modelling, and A/B testing, with a strong track record of building automated dashboards and collaborating with cross-functional teams to deliver data-driven solutions.
 
 ---
 
