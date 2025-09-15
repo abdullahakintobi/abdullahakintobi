@@ -12,13 +12,11 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
 Data Analyst with 2+ years of experience transforming complex datasets into actionable insights that drive business decisions and process improvements. Skilled in data analysis, visualisation, predictive modelling, and A/B testing, with a strong track record of building automated dashboards and collaborating with cross-functional teams to deliver data-driven solutions.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +44,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
 
 ## 📊 GitHub Analytics
 
@@ -55,7 +52,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahakintobi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
 
 ## 🏆 Featured Projects
 
@@ -80,7 +76,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
 - Data storytelling through compelling visualizations
 - *Technologies: Power BI, DAX, Data Modeling, Business Intelligence*
 
----
 
 ## 💼 Professional Experience
 
@@ -97,7 +92,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
 - Develop tailored learning materials and provide technical mentorship
 - **Key Achievement**: Boosted learner performance by 25% and improved retention by 40%
 
----
 
 ## 📈 Contribution Graph
 
@@ -105,7 +99,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahakintobi&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </div>
 
----
 
 ## 🎓 Education & Certifications
 
@@ -120,7 +113,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
 - **Fraud Analytics**: Pattern Recognition, Risk Assessment, Predictive Modeling
 - **Soft Skills**: Data Storytelling, Cross-functional Collaboration, Agile Methodology
 
----
 
 ## 📊 Key Achievements
 
@@ -130,7 +122,6 @@ Data Analyst with 2+ years of experience transforming complex datasets into acti
 ⚡ **30%** improvement in fraud detection efficiency using Spark and Python  
 📊 **40%** improvement in student retention through engaging learning environments  
 
----
 
 ## 🤝 Let's Connect!
 
@@ -143,7 +134,6 @@ I'm passionate about leveraging data analytics to solve real-world business prob
 - 🔍 Fraud Detection & Risk Analytics Collaborations
 - 📚 Mentoring Aspiring Data Analysts
 
----
 
 <div align="center">
   
