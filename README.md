@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullah 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fraud+Detection+Expert;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Consultant;Transforming+Data+into+Insights;" alt="Typing SVG" />
 </div>
 
 <div align="center">
