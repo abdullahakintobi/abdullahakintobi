@@ -28,14 +28,14 @@
 ### **Data Analysis & Statistics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=spark&logoColor=white)
 
 ### **Data Visualization & BI**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ### **Databases & Cloud**
@@ -77,22 +77,6 @@
 - *Technologies: Power BI, DAX, Data Modeling, Business Intelligence*
 
 
-## 💼 Professional Experience
-
-### **Data Analyst** | *Adyen* (Sep 2024 – Present)
-**Amsterdam, Netherlands | Contract**
-- Analyze large-scale payment data to detect fraud patterns and strengthen risk mitigation strategies
-- Design and implement A/B testing frameworks and statistical models for fraud prevention optimization
-- Build interactive dashboards and automated reports using SQL, Python, Power BI, and Excel
-- **Key Achievement**: Reduced fraudulent transactions by 25% and decreased false positives by 18%
-
-### **Data Analytics Tutor** | *Data Science Nigeria (DSN)* (Jun 2023 – Present)
-**Lagos, Nigeria | Volunteer**
-- Mentor 100+ students in SQL, Python, Excel, and Power BI through live sessions and bootcamps
-- Develop tailored learning materials and provide technical mentorship
-- **Key Achievement**: Boosted learner performance by 25% and improved retention by 40%
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -100,27 +84,13 @@
 </div>
 
 
-## 🎓 Education & Certifications
+## 📊 Core Competencies
 
-**🎓 Education**
-- **Bachelor of Science in Data Science** | *IU International University of Applied Sciences* (Mar 2025 – Present)
-- **Bachelor of Science in Statistics** | *University of Ilorin, Nigeria* (Jun 2021 – Jul 2024)
-
-**📊 Core Competencies**
 - **Statistical Analysis**: Regression, Hypothesis Testing, ANOVA, Time Series Analysis
 - **Business Intelligence**: Dashboard Development, KPI Design, Executive Reporting
 - **Data Engineering**: ETL Processes, Data Modeling, Database Design
 - **Fraud Analytics**: Pattern Recognition, Risk Assessment, Predictive Modeling
-- **Soft Skills**: Data Storytelling, Cross-functional Collaboration, Agile Methodology
-
-
-## 📊 Key Achievements
-
-🎯 **25%** reduction in fraudulent transactions through predictive modeling at Adyen  
-📈 **18%** decrease in false positives using advanced risk typologies  
-👥 **100+** students mentored in data analytics bootcamps and sessions  
-⚡ **30%** improvement in fraud detection efficiency using Spark and Python  
-📊 **40%** improvement in student retention through engaging learning environments  
+- **Soft Skills**: Data Storytelling, Cross-functional Collaboration, Agile Methodology 
 
 
 ## 🤝 Let's Connect!
