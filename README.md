@@ -45,14 +45,6 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahakintobi&layout=compact&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahakintobi&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-
 ## 🏆 Featured Projects
 
 ### 🏪 [SQL Retail Sales Analysis](https://github.com/abdullahakintobi/SQL-Retail-Sales-Analysis)
